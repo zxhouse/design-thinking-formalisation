@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "When Does Design Thinking Work? A Convergence Theorem for the Iterate–Test Core"
+authors:
+  - family-names: Kuraś
+    given-names: Paweł
+  - family-names: Michalski
+    given-names: Adrian
+  - family-names: Gerka
+    given-names: Alicja
+repository-code: "https://github.com/pawelkuras/design-thinking-formalization"
+license: MIT
